@@ -2,6 +2,8 @@
 
 This is for an all day training!
 
+Back at ya!
+
 This template is designed as one connected system:
 
 - The repository is where the science happens.

@@ -1,6 +1,6 @@
-# Working Group Template
+# Ty's test again repo
 
-This repository is a template for ESIIL Working Groups.
+This is for an all day training!
 
 This template is designed as one connected system:
 
